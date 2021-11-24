@@ -1,0 +1,19 @@
+{
+  "name": "plenty-middleware-boilerplate",
+  "version": "1.0.0",
+  "description": "Middleware boilerplate for plenty indexer",
+  "main": "app.js",
+  "scripts": {
+    "server": "node app.js"
+  },
+  "keywords": [],
+  "author": "PLENTY",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "graphql": "^15.7.0",
+    "graphql-request": "^3.6.1",
+    "os": "^0.1.2"
+  }
+}
