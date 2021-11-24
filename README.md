@@ -7,7 +7,7 @@
 
 1. Clone the project, run
 ```
-git clone https://github.com/kapiltez/plenty-middleware-boilerplate.git
+git clone https://github.com/Tezsure/plenty-middleware-boilerplate.git
 ```
 
 2. Install project dependencies, run
